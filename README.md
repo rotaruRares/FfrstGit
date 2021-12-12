@@ -1,2 +1,2 @@
-# FfrstGit
+# FirstGit
 First GitHub
